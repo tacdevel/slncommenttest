@@ -18,13 +18,13 @@ EndProject
 Global
 	# Comment 7
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		#Comment 8
+		# Comment 8
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	# Comment 9
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		Comment 10
+		# Comment 10
 		{00000000-0000-0000-FFFF-FFFFFFFFFFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{00000000-0000-0000-FFFF-FFFFFFFFFFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00000000-0000-0000-FFFF-FFFFFFFFFFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
